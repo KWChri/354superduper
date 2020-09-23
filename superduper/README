@@ -1,0 +1,15 @@
+Created by Kelton Christopher
+CS 354 la1
+Due 09/23/2020
+
+```Running
+This program is designed to run on the guile interpreter.
+On onyx this program can be called using the app program found in ~jbuffenb/classes/354/pub/bin/app
+With app run the following command:
+$app guile superduper.scm
+
+```Development
+This assignment is designed to be a use of a minimal amount of scheme functionality to shy completely away from imperative programming practices
+
+```Known errors
+Currently none
